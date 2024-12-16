@@ -1,0 +1,6 @@
+D:\SMS_Web\Models\bin\Release\Models.dll
+D:\SMS_Web\Models\bin\Release\Models.pdb
+D:\SMS_Web\Models\obj\Release\Models.csprojAssemblyReference.cache
+D:\SMS_Web\Models\obj\Release\Models.csproj.CoreCompileInputs.cache
+D:\SMS_Web\Models\obj\Release\Models.dll
+D:\SMS_Web\Models\obj\Release\Models.pdb
